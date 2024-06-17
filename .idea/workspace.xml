@@ -5,38 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="545ede04-ac1c-4bc7-9e87-5d28415aedb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/0a20412a-2743-42b6-88b9-32527d6e1d8b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/134b734b-4cc4-4b1a-bd7b-6434d424d226-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/21413930-5baa-43aa-8a1f-b80f845313c2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/35799869-595b-4c47-9877-3005a3ae5114-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5ba18b4d-ae1c-4ba3-9f04-196f7b9ea372-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/67cc42f2-7c54-40dd-af39-952dbbb077d8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/68a021f5-020d-4fdb-bd45-9215e36915e0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/70cc712d-626f-4dc9-b47d-f0ebe858bf0e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/835d5e7d-c671-45cf-84bd-031c8bc2c3d1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9c78fd65-83e5-479f-acba-bbaa188cfc68-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b5dc7724-a0ed-48fd-ab9b-4b241b0fb1d4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c1b1bb37-ebf3-4e10-a32b-dea389de7745-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/c48d976c-ff96-49c8-9b16-436f5984e7b4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e0c9b977-20a0-42f1-bc7c-8aa86ddf4231-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e520ccaa-f9ef-450e-b8a0-3f61ede65928-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kadehar/Specs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kadehar/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lombok/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/lombok/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/UserData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,9 +50,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2hvOCeAakZYRrT1ilomka2RNUk5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -104,6 +74,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IdeaProjects/qa_guru_lessjn_18_my",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.47910863",
@@ -187,13 +158,6 @@
         <item itemvalue="JUnit.UserTest" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.9-jbrsdk-17.0.9-f644763e9732-d3ceb957" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
